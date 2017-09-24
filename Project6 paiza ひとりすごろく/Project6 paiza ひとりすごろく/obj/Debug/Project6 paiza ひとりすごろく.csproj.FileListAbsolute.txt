@@ -1,0 +1,6 @@
+c:\users\pleia\onedrive\ドキュメント\visual studio 2017\Projects\Project6 paiza ひとりすごろく\Project6 paiza ひとりすごろく\bin\Debug\Project6 paiza ひとりすごろく.exe.config
+c:\users\pleia\onedrive\ドキュメント\visual studio 2017\Projects\Project6 paiza ひとりすごろく\Project6 paiza ひとりすごろく\bin\Debug\Project6 paiza ひとりすごろく.exe
+c:\users\pleia\onedrive\ドキュメント\visual studio 2017\Projects\Project6 paiza ひとりすごろく\Project6 paiza ひとりすごろく\bin\Debug\Project6 paiza ひとりすごろく.pdb
+c:\users\pleia\onedrive\ドキュメント\visual studio 2017\Projects\Project6 paiza ひとりすごろく\Project6 paiza ひとりすごろく\obj\Debug\Project6 paiza ひとりすごろく.csprojResolveAssemblyReference.cache
+c:\users\pleia\onedrive\ドキュメント\visual studio 2017\Projects\Project6 paiza ひとりすごろく\Project6 paiza ひとりすごろく\obj\Debug\Project6 paiza ひとりすごろく.exe
+c:\users\pleia\onedrive\ドキュメント\visual studio 2017\Projects\Project6 paiza ひとりすごろく\Project6 paiza ひとりすごろく\obj\Debug\Project6 paiza ひとりすごろく.pdb
